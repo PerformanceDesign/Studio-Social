@@ -1,0 +1,8 @@
+{
+  "name": "Studio Social - AI Marketing Mentor",
+  "description": "A gamified AI-powered learning platform for beauty salons and tattoo studios to master social media marketing across Instagram, TikTok, Facebook, and Google Business Profile.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
